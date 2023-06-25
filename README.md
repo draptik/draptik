@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I'm Patrick
+
+I’m a software developer.
+
+I care about
+
+- Software Crafting
+- Domain-Driven Design
+- Functional Programming
 
 <!--
 **draptik/draptik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
